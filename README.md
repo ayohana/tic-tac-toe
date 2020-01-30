@@ -1,4 +1,4 @@
-# Pig Dice
+# Tic Tac Toe
 
 #### JavaScript Constructor Exercise for Epicodus, 01.29.2020
 
